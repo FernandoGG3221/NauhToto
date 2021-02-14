@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/intro.unity
+    guid: b79582d7d96637144b8fb621ffb7dd34
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/MenuOpcion2.unity
+    guid: 08fb28ce9280a8642ad929bf404c74c2
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/Jugar.unity
+    guid: ca2d0f42abe2c714f96229c17fcb1ae2
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/categoriasOpcion1.unity
+    guid: 04b44cbf9fba0574bb30121bb7c746a1
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/Colores.unity
+    guid: 41bbc58c9fc7cef48bb3167a8223a910
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/fruts.unity
+    guid: ac9b980fc5b384749bf8172ddb9c167c
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/Numeros.unity
+    guid: eb2f7ed9b7183c24d958beb67093c66c
+  - enabled: 1
+    path: Assets/Scenes/Prueba1/Bingo.unity
+    guid: c6e79e96729daea4195a2d59dc6f0432
+  m_configObjects: {}
