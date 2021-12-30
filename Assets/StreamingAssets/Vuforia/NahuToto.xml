@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Unitag_QRCode_uva-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_sandia-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_platano-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_melon-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_manzana-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_mango-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_mandarina-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_mamey-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_guayaba-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_grosellas-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_fresa-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_durazno-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_coco-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_ciruela-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_cereza-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_verde-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_rosa-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_Rojo-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_naranja-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_morado-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_gris-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_blanco-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_black-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_Amarillo-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_7-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_6-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_5-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_4-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_3-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_2-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_1-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_0-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_8-ConvertImage" size="1.000000 1.000000" />
+    <ImageTarget name="Unitag_QRCode_9-ConvertImage" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
